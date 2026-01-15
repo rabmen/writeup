@@ -1,4 +1,4 @@
-# TrayHackMe - writeup Отчёт по VulnNet: Active
+# TrayHackMe - writeup Отчёт по VulnNet: Active https://tryhackme.com/room/vulnnetactive
 
 Первоначально был предоставлен IP-адрес, поэтому первым делом необходимо просканировать хост для сбора информации:
 ```bash
