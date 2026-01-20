@@ -34,13 +34,15 @@ cat Ent*
 nxc smb target_ip -u 'guest' -p '' --rid-brute
 ```
 Успешно, формируем файлик users.txt
+```bash
+cat users.txt
 Administrator
 enterprise-core-vn
 a-whitehat
 t-skid
 j-goldenhand
 j-leet
-
+```
 
 Пробуем акаку AS-REP Roasting
 ```bash
